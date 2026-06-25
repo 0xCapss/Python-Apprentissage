@@ -1,0 +1,13 @@
+# Obsidian : cache local de l'espace de travail (pas utile à versionner)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
