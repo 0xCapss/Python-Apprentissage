@@ -8,7 +8,8 @@ Notes sur le langage lui-meme (syntaxe, idiomes, pieges).
 ## Fondations
 - [x] [[01-Python/Variables et types|Variables et types]] (etiquette, mutabilite, reference partagee)
 - [ ] Types de base : int, float, [[01-Python/Les chaines de caracteres|str]] (chaines vues), bool
-- [ ] Listes, tuples, [[01-Python/Les dictionnaires|dictionnaires]] (dictionnaires vus), ensembles
+- [x] [[01-Python/Tuples et dictionnaires|Tuples et dictionnaires]] (immuabilite, cle:valeur, .items/.keys/.values)
+- [ ] Listes, ensembles
 - [ ] Conditions : if / elif / else
 - [ ] Boucles : for, while ([[01-Python/La boucle while|while vu]]), range, [[01-Python/enumerate|enumerate]] (enumerate vu)
 - [x] [[01-Python/Fonctions et portee|Fonctions et portee]] (parametres, scope local/global, piege mutable)

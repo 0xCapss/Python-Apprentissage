@@ -20,5 +20,6 @@ Chaque exercice : un enonce, ton raisonnement (REGT), ta solution commentee.
 - [[03-Exercices/E09 - Mot de passe valide|E09 - Mot de passe valide]] (chaines, isdigit, drapeau, teste)
 - [[03-Exercices/E10 - Le chiffre de Cesar|E10 - Le chiffre de Cesar]] (chiffrement, ord/chr, modulo, teste)
 - [[03-Exercices/E11 - Casser le chiffre de Cesar|E11 - Casser le chiffre de Cesar]] (analyse de frequence, force brute, teste)
+- [[03-Exercices/E12 - Inventaire|E12 - Inventaire]] (dictionnaire + tuple, critere < seuil, teste)
 
 Retour : [[00-Accueil/Accueil|Accueil]]
