@@ -17,7 +17,7 @@ Apprendre a penser une solution avant de l'ecrire. C'est ici que se joue l'essen
 - [x] Parcours d'une liste - vu dans E01
 - [ ] Recherche (lineaire)
 - [ ] Le tri (idee generale)
-- [ ] Notion de complexite (pourquoi un code peut etre lent)
+- [x] [[02-Algorithmie/Complexite O(n)|Notion de complexite O(n)]] (lineaire, quadratique, logarithmique)
 
 ## Reflexe a acquerir
 Avant d'ecrire une seule ligne, je fais l'exercice a la main sur un petit exemple,
