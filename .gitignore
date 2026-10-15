@@ -11,3 +11,7 @@ venv/
 
 # OS
 .DS_Store
+
+# Labs HackTheBox : notes remplies privees (le depot est public, partage de solutions interdit)
+06-Labs/*prive*
+06-Labs/*privé*

@@ -13,6 +13,7 @@ Avoir une base solide en Python et savoir raisonner en algorithmie pour integrer
 - [[02-Algorithmie/Algorithmie - Index|Algorithmie - Index]]
 - [[03-Exercices/Exercices - Index|Exercices - Index]]
 - [[04-Journal/Journal - Index|Journal des sessions]]
+- [[06-Labs/Labs - Index|Labs]]
 
 ## Notes cles a connaitre par coeur
 - [[02-Algorithmie/Methode - Decomposer un probleme|La methode REGT pour decomposer un probleme]]
